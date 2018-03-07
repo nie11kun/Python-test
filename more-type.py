@@ -1,3 +1,4 @@
+"""
 nums = {1: "one", 2: "two", 3: "three"}
 
 print(1 in nums)
@@ -46,7 +47,7 @@ if any(i % 2 == 0 for i in num):
     print("at least one is")
 for v in enumerate(num):
     print(v)
-
+"""
 def count_char(text, char):
     count = 0
     for c in text:
@@ -57,6 +58,11 @@ def count_char(text, char):
 filename = input("enter the file name: ")
 with open(filename) as f:
     text = f.read()
-print(text)
+print("the count is " + str(count_char(text, "d")))
+for char in "abcdefghijklmnopqrstuvwxyz":
+    per = 100 * count_char(text, char) / len(text)
+    print("{0} - {1}".format(char, round(per, 2)))
+
+
 
 
