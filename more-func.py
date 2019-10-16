@@ -12,7 +12,7 @@ print(list(filter(lambda x: x % 2 == 0, nums)))
 def countdown():
     i = 5
     while i > 0:
-        yield i
+        yield i# like return
         i -= 1
 for i in countdown():
     print(i)
@@ -20,7 +20,7 @@ for i in countdown():
 def num4(x):
     for i in range(x):
         if i % 2 == 0:
-            yield i
+            yield i # return , finally num4 return a array
 print(list(num4(7)))
 
 def decor(func):

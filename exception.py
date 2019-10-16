@@ -26,8 +26,8 @@ num = func7(3)
 print(num)
 
 file1 = open("file.txt", "r")
-print(file1.read(2))
-print(file1.read(2))
+print(file1.read(2))#read first 2
+print(file1.read(2))#read 3 4
 print(file1.readlines(1))
 for line in file1:
     print(line)

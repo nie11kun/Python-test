@@ -56,7 +56,7 @@ if match:
     print(match.group(1))
     print(match.groups())
 
-str9 = r"(?P<first>abc)(?:def)(ghi)"# ?: mot has the group index number
+str9 = r"(?P<first>abc)(?:def)(ghi)"# ?: not has the group index number
 match = re.search(str9, "abcdefghijk")
 if match:
     print(match.group("first"))
@@ -73,7 +73,7 @@ if match:
     print("str11 matched")
 
 '''
-\d: [0-9] /D: not [0-9]
+\d: [0-9] \D: not [0-9]
 \s: [ \t\n\r\f\v] \S: not [ \t\n\r\f\v]
 \w: [a-zA-Z0-9_] \W: not [a-zA-Z0-9_]
 '''
