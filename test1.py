@@ -102,3 +102,7 @@ while True:
     else:
         print("unknown input")
 
+str123 = '   lalala   lalala'
+str123 = str123.strip()
+
+print(str123)
