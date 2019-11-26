@@ -1,5 +1,105 @@
-the new word been writed
-the new word been writed
-the new word been writed
-the new word been writed
-the new word been writed
+--2019-11-26 11:51:00--  http://niekun.net/manual/FANUC-INTERNAL
+Resolving niekun.net (niekun.net)... 104.24.97.72, 104.24.96.72, 2606:4700:30::6818:6048, ...
+Connecting to niekun.net (niekun.net)|104.24.97.72|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://niekun.net/manual/FANUC-INTERNAL [following]
+--2019-11-26 11:51:00--  https://niekun.net/manual/FANUC-INTERNAL
+Connecting to niekun.net (niekun.net)|104.24.97.72|:443... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://niekun.net/manual/FANUC-INTERNAL/ [following]
+--2019-11-26 11:51:01--  https://niekun.net/manual/FANUC-INTERNAL/
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘niekun.net/manual/FANUC-INTERNAL.7’
+
+     0K                                                        16.0M=0s
+
+2019-11-26 11:51:02 (16.0 MB/s) - ‘niekun.net/manual/FANUC-INTERNAL.7’ saved [749]
+
+Loading robots.txt; please ignore errors.
+--2019-11-26 11:51:02--  https://niekun.net/robots.txt
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 404 Not Found
+2019-11-26 11:51:02 ERROR 404: Not Found.
+
+--2019-11-26 11:51:02--  https://niekun.net/manual/FANUC-INTERNAL/main.css
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 522 [text/css]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/main.css’ -- not retrieving.
+
+--2019-11-26 11:51:02--  https://niekun.net/manual/FANUC-INTERNAL/section_1.html
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/section_1.html’ -- not retrieving.
+
+--2019-11-26 11:51:02--  https://niekun.net/manual/FANUC-INTERNAL/section_2.html
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/section_2.html’ -- not retrieving.
+
+--2019-11-26 11:51:03--  https://niekun.net/manual/FANUC-INTERNAL/section_3.html
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/section_3.html’ -- not retrieving.
+
+--2019-11-26 11:51:03--  https://niekun.net/manual/FANUC-INTERNAL/section_10.html
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/section_10.html’ -- not retrieving.
+
+--2019-11-26 11:51:03--  https://niekun.net/manual/FANUC-INTERNAL/section_11.html
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/section_11.html’ -- not retrieving.
+
+--2019-11-26 11:51:03--  https://niekun.net/manual/FANUC-INTERNAL/section_12.html
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/section_12.html’ -- not retrieving.
+
+--2019-11-26 11:51:03--  https://niekun.net/manual/FANUC-INTERNAL/index.html
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/index.html’ -- not retrieving.
+
+--2019-11-26 11:51:04--  https://niekun.net/manual/FANUC-INTERNAL/resources/img/dress.png
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 28508 (28K) [image/png]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/resources/img/dress.png’ -- not retrieving.
+
+--2019-11-26 11:51:04--  https://niekun.net/manual/FANUC-INTERNAL/resources/img/tech.png
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 19289 (19K) [image/png]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/resources/img/tech.png’ -- not retrieving.
+
+--2019-11-26 11:51:04--  https://niekun.net/manual/FANUC-INTERNAL/resources/img/grind.png
+Reusing existing connection to niekun.net:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 25665 (25K) [image/png]
+Server file no newer than local file ‘niekun.net/manual/FANUC-INTERNAL/resources/img/grind.png’ -- not retrieving.
+
+FINISHED --2019-11-26 11:51:04--
+Total wall clock time: 4.4s
+Downloaded: 1 files, 749 in 0s (16.0 MB/s)
+Converting niekun.net/manual/FANUC-INTERNAL/section_3.html... 3-0
+Converting niekun.net/manual/FANUC-INTERNAL.7... 9-0
+Converting niekun.net/manual/FANUC-INTERNAL/section_1.html... 3-0
+Converting niekun.net/manual/FANUC-INTERNAL/section_11.html... 4-0
+Converting niekun.net/manual/FANUC-INTERNAL/section_2.html... 3-0
+Converting niekun.net/manual/FANUC-INTERNAL/section_12.html... 4-0
+Converting niekun.net/manual/FANUC-INTERNAL/index.html... 9-0
+Converting niekun.net/manual/FANUC-INTERNAL/section_10.html... 5-0
+Converting niekun.net/manual/FANUC-INTERNAL/main.css... nothing to do.
+Converted 9 files in 0.06 seconds.
+
