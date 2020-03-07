@@ -1,6 +1,6 @@
 from subprocess import Popen, PIPE
 
-site = 'https://niekun.net/index.php/2019/10/'
+site = 'https://blog.niekun.net/index.php/2019/10/'
 path = '/mnt/c/Users/HJ_NK/Documents/'
 
 print('downloading')
