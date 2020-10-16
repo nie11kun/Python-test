@@ -1,5 +1,10 @@
 # import this
 
+site = {
+    'twitter': 'https://twitter.com/BleacherReport/status/',
+    'pornhub': 'https://www.pornhub.com/view_video.php?viewkey='
+}
+
 def func1(x, *y):# *y as an tuple
     print(x)
     print(y[1])
@@ -11,7 +16,7 @@ def func2(x, y=2):
 func2(1)
 func2(1, 5)
 
-def func3(x, **y):
+def func3(x, **y):# ** as a dictranory
     print(y)
 func3(3, a=1, b=3)
 

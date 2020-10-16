@@ -102,3 +102,6 @@ match = re.findall(str14, str15)
 if match:
     print(match)
 
+str20 = '我【们，都】是 什么时[候的:事：情了？?'
+new_fn = re.sub('[\s\，\,\]\[\:\：\【\】\?\？]', '_', str20)
+print(new_fn)

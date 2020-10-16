@@ -1,7 +1,7 @@
 print('hello')
 print(2 + 2)
-print(2**5)
-int("2") + int("3")
+print(2**5) # n次方
+print(int("2") + int("3"))
 x = 7
 print(x)
 print(2 == 2)
@@ -44,6 +44,7 @@ while 1 == 1:
 
 things = ["hea", [1, 2, 3], 0]
 print(things[1])
+print(things[2])
 things[2] = 5
 print(things[2])
 
